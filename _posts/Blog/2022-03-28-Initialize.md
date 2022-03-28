@@ -3,7 +3,7 @@ title:  "Initialize"
 excerpt: "포스트 소개글 입니당"
 
 categories:
-  - BlogOperation
+  - Blog
 tags:
   - [Blog, jekyll, Github, Git]
 
@@ -45,9 +45,9 @@ last_modified_at: "2022-03-28 00:00:00 +0900"
 title:  "Initialize"
 
 categories:
-  - BlogOperation
+  - Blog
 tags:
-  - [BlogOperation, jekyll, Github, Git]
+  - [Blog, jekyll, Github, Git]
 
 toc: true
 toc_sticky: true
