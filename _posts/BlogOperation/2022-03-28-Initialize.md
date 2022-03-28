@@ -47,7 +47,7 @@ title:  "Initialize"
 categories:
   - BlogOperation
 tags:
-  - [Blog, jekyll, Github, Git]
+  - [BlogOperation, jekyll, Github, Git]
 
 toc: true
 toc_sticky: true
