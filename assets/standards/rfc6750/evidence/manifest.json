@@ -1,0 +1,216 @@
+{
+  "schema_version": "1.0",
+  "format": "reviewed-reading-edition",
+  "tool": {
+    "name": "supertranslator",
+    "version": "0.9.0"
+  },
+  "source_url": "https://datatracker.ietf.org/doc/rfc6750/",
+  "qa_status": "passed",
+  "input_html_sha256": "a48f55cc5c2ca3da1e3cc0deb5cf96acf922f31b7e8d80953b0cf310c95d950b",
+  "input_manifest_sha256": "024044945f97ddf6846c88b9473c568c70c2f606136a46ddb3e15afe4074fa6d",
+  "reader_review_sha256": "8bed8bd2e69d4f0eb929db4a9dd932144162ed304ce9d945084e36123157dc51",
+  "html_sha256": "a1dd81221b090c2e0289e00105ec6df2104999a3eb9a4fa53b21b0882ff4354a",
+  "article_sha256": "6320b956c11d15690ded7a7acb789474e474c5f8693e8d461479f7f5e74b5b92",
+  "stylesheet_sha256": "f790490ac93c2fbc771ce2c958cb60d2145fcd82c6aa64c531bbd2fc5ddcebaf",
+  "asset_sha256": {
+    "assets/4213d31c0bd25b11.png": "1e77dc831f90a849feff433f282a5253aaa7dc0474f5f188c0f99721c931f0bd",
+    "assets/80921d3f0743cbb6.woff2": "2f5b3de320cce896f954466bbd3ac8151f79a432cb3dfebe00595bae00622cbb",
+    "assets/d4963924b6b4256e.svg": "d4da1dab28cd845292c36ddf2fb909864747e080ef5510cf69860c2e11206f6b",
+    "assets/1883f653a6f5a08b.css": "4c93461abe4e67bcd1f5b5bc853b3b797209b4fb8d59e168ec81a83ceb8c74f7",
+    "assets/a0e410c0f7e3dc19.woff2": "4223382c2fb8043edd3718a9268e93e90b9e38f6077807bfdc7c2c63eab8e559",
+    "assets/27f6b4e2c219be75.woff2": "89b4a3fe5809bbc10f308a085ae2effc34bd214aa2faaafbb1c43d11fd14e89d",
+    "assets/16a945e4301b94df.woff2": "c6ba56e9453628cd6d558ac72c9e791bf3bab2c31f36e68d53196066071a68df",
+    "assets/d3a725cb4810d0e7.woff2": "262a1054100218e2efaa4b2e214e4fb8e920c5a30a53300b80145511df3de895",
+    "assets/b37e2da88d7283b5.woff2": "fe977ddb0912af31a42f3aa85acb9df12bcb5b0fba4b3ca6425a1b2d0eb680cc",
+    "assets/039e6b96a3ff7285.css": "1774a4f2afe751b1b1d1448112fb693f6fec0cf498e610cde75996013b6a757c",
+    "assets/7f6da73d531784d3.woff2": "450f3ba4e47ee174bd9692b396f264b907d37d2528f53911760f3d0edb785f7e",
+    "assets/f532925fb08da239.gif": "548f2d6f4d0d820c6c5ffbeffcbd7f0e73193e2932eefe542accc84762deec87",
+    "assets/d3dff33b5b11f2a5.css": "4ded0189392309849487d147f72b5a578b0f2cf298e425dd1046e8889e4401a5",
+    "assets/reader.css": "f790490ac93c2fbc771ce2c958cb60d2145fcd82c6aa64c531bbd2fc5ddcebaf",
+    "assets/a2eee5530bf32ed5.woff2": "4feeabd3589fad94bda73d3e96376c4e2582be8f7363f5e64a4becc8259762f8",
+    "assets/1be32e0be699d849.svg": "1a27d85d11a1816fc6151c725574d2fc2c52d4290865970f34f22f2388cac39f",
+    "assets/wt-preformatted-14edac915a1f0158.css": "14edac915a1f01585baf87d8c22fec54e261a42cf370c2e5afe244b1f9b07072",
+    "assets/291c297d6baad8bf.css": "98d1fd7298b09bc6567dba7fa92de06a8a89d7b4f544f23d3080d444953a9a79",
+    "assets/8d512a6ac3db2665.png": "3880a7cf5e17a47ba7fa23ccb77a8eb951b4b11a909847ff7a6b1d1fbb728d44",
+    "assets/87884d342e123681.woff": "f55513b7b591cb84a3b87ff0e34ea24d4831d6fedc22e54b911ca64b5b544a15",
+    "assets/014af5d11684e452.woff2": "848492d3aa2f371a2a4bd3d0f300ed044f23e2985a0202d70c05f91083a5909c",
+    "assets/5e3727118774e143.woff2": "498c02a17f83014fcce8afa038a66e4b9510834b4ccc458a75b48dd95f848cf4",
+    "assets/3a24e04966bec07d.woff2": "a45feea1cf94ad188117b3cae8cc3f76ac51f6bfb5dc51830de9bdba855d1baa",
+    "assets/bdc7a9c237186021.woff2": "51451d6713e5be5afd677537d7638150032e1fce209d6b82e78c436ae1917878",
+    "assets/df64f6065a47862f.png": "9b8ea08883a7ba9f91e7c137c89a4356d621ade48207f392fa9c77fd41d23c5f",
+    "assets/6ab390d979ae3711.woff2": "6c75710364a1ca5604267716f6d28997b26319fdb078cf11e0b42ab66ff2ea61",
+    "assets/93e8c6293d2f7670.woff2": "45606f837ab8530c01f3602592ed7a118450be4ef3f629ca644d0543099e5c6b",
+    "assets/b65651088b1c8cd1.woff2": "ac4e131ca9a592d8d092e617c759bc5ac35d411a11fdf1610ba834330ab94d91",
+    "assets/74bc946c84c8cf4b.svg": "03efbd4fda703344e6fca6bc012d5074ce0be4b945d26b9c11b46ee82ec8b024"
+  },
+  "transformations": {
+    "removals": [
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000001\"]",
+        "text_sha256": "70f20f2ff8d41ff5972131e2cf48c28b625acaa07825b23c03eca247504d1bcc",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      },
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000023\"]",
+        "text_sha256": "6da90e7df3b085908e3ea9e32e595678d430c9dd6b352503e410483bf97cec32",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      },
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000062\"]",
+        "text_sha256": "8970d16f09f0786509ff278312dbf993864018a1645af698619a6674bdcdeb5b",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      },
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000084\"]",
+        "text_sha256": "0ffcf5486dcf621dd05b16dd880970fee7db4e6f93634e2efb1b1f5fdd5d1688",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      },
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000104\"]",
+        "text_sha256": "d2617f52c884fe4bb7cea5701480c13fb487babc27280cce0f922629d30416c4",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      },
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000130\"]",
+        "text_sha256": "b4379f0328fc3de2a273061b010ebb5538445fd952d73c8ce9c5ecc87baa6a03",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      },
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000154\"]",
+        "text_sha256": "752a9010eacd07a215aa6a5d720812e9b5f64bc6eb83af86d3b6b783048c099b",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      },
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000176\"]",
+        "text_sha256": "a10d06b68ae7e03c2448f641f65c730308cc2ac09e01e50d1b24ed70f87f0def",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      },
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000192\"]",
+        "text_sha256": "e0ce7ac0d2c8fed8042446c086231d8737edc588ff4dc5aea13609bdbdc004a0",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      },
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000214\"]",
+        "text_sha256": "67433cc65cc2529e611bc6da01ca71ff3495c0666d12b768afa0156bad4c48f0",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      },
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000234\"]",
+        "text_sha256": "b41dc233675623af85e2f2d954df14bf7bc88f389eea78f07affaa5c4368f849",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      },
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000252\"]",
+        "text_sha256": "db5c5243c908bab6de38afad4b743333e19227b41388fddd2eac61861a047938",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      },
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000262\"]",
+        "text_sha256": "6071124feafd97e69475b811c8b3d92c0fc85ae74039c9ad06ad63e0b536b869",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      },
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000280\"]",
+        "text_sha256": "3b837b1ea3a60a0aa9fc63f404702232f7031f55a09e273c7b4e272871ba949a",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      },
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000316\"]",
+        "text_sha256": "8f2434101e20c60f2911cf715ad2869b80f5ccbc0e74cd9add79f047f477c1fb",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      },
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000352\"]",
+        "text_sha256": "bb30aaf0500ce472f497c620794f7e3b4543333ed4c2a6e088459624d163cd0c",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      },
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000376\"]",
+        "text_sha256": "7ce74c91a7c665a9b263827478693785ae36e75d5ac598177c0f320650a204bb",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      },
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000388\"]",
+        "text_sha256": "6a32aebba8d7a0be65c4cfea26d7ae262b9c8a0c89d34b01507e9a8877d09cb3",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      },
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000389\"]",
+        "text_sha256": "c38a29548f48f8cff80c31055e087063ce2530e69591b3e412d56a14e51b44dc",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      },
+      {
+        "selector": "[data-wt-preformatted-block=\"block-000407\"]",
+        "text_sha256": "bd1193edf541768404f6b67bbc4fd9311203db3f0dc118da864b85cfb8756b88",
+        "reason": "Controller inspected: source publication metadata or repeated running header/footer, retained in collapsed source notes."
+      }
+    ],
+    "joins": [
+      {
+        "selectors": [
+          "[data-wt-preformatted-block=\"block-000060\"]",
+          "[data-wt-preformatted-block=\"block-000064\"]"
+        ]
+      },
+      {
+        "selectors": [
+          "[data-wt-preformatted-block=\"block-000174\"]",
+          "[data-wt-preformatted-block=\"block-000178\"]"
+        ]
+      },
+      {
+        "selectors": [
+          "[data-wt-preformatted-block=\"block-000250\"]",
+          "[data-wt-preformatted-block=\"block-000254\"]"
+        ]
+      }
+    ],
+    "heading_levels": {
+      "[data-wt-preformatted-block=\"block-000003\"]": 1,
+      "[data-wt-preformatted-block=\"block-000005\"]": 2,
+      "[data-wt-preformatted-block=\"block-000009\"]": 2,
+      "[data-wt-preformatted-block=\"block-000017\"]": 2,
+      "[data-wt-preformatted-block=\"block-000025\"]": 2,
+      "[data-wt-preformatted-block=\"block-000054\"]": 2,
+      "[data-wt-preformatted-block=\"block-000066\"]": 3,
+      "[data-wt-preformatted-block=\"block-000074\"]": 3,
+      "[data-wt-preformatted-block=\"block-000080\"]": 3,
+      "[data-wt-preformatted-block=\"block-000100\"]": 2,
+      "[data-wt-preformatted-block=\"block-000106\"]": 3,
+      "[data-wt-preformatted-block=\"block-000120\"]": 3,
+      "[data-wt-preformatted-block=\"block-000144\"]": 3,
+      "[data-wt-preformatted-block=\"block-000166\"]": 2,
+      "[data-wt-preformatted-block=\"block-000198\"]": 3,
+      "[data-wt-preformatted-block=\"block-000216\"]": 2,
+      "[data-wt-preformatted-block=\"block-000222\"]": 2,
+      "[data-wt-preformatted-block=\"block-000226\"]": 3,
+      "[data-wt-preformatted-block=\"block-000240\"]": 3,
+      "[data-wt-preformatted-block=\"block-000264\"]": 3,
+      "[data-wt-preformatted-block=\"block-000282\"]": 2,
+      "[data-wt-preformatted-block=\"block-000284\"]": 3,
+      "[data-wt-preformatted-block=\"block-000288\"]": 4,
+      "[data-wt-preformatted-block=\"block-000300\"]": 3,
+      "[data-wt-preformatted-block=\"block-000304\"]": 4,
+      "[data-wt-preformatted-block=\"block-000318\"]": 4,
+      "[data-wt-preformatted-block=\"block-000330\"]": 4,
+      "[data-wt-preformatted-block=\"block-000342\"]": 2,
+      "[data-wt-preformatted-block=\"block-000344\"]": 3,
+      "[data-wt-preformatted-block=\"block-000378\"]": 3,
+      "[data-wt-preformatted-block=\"block-000391\"]": 2,
+      "[data-wt-preformatted-block=\"block-000397\"]": 2
+    },
+    "list_items": [
+      "[data-wt-preformatted-block=\"block-000094\"]",
+      "[data-wt-preformatted-block=\"block-000096\"]",
+      "[data-wt-preformatted-block=\"block-000124\"]",
+      "[data-wt-preformatted-block=\"block-000126\"]",
+      "[data-wt-preformatted-block=\"block-000128\"]",
+      "[data-wt-preformatted-block=\"block-000132\"]",
+      "[data-wt-preformatted-block=\"block-000134\"]"
+    ]
+  },
+  "render_input_sha256": "a77c534f531cecc09cf1494df13a48d63af42cdf507041420f784b38e6c6e89c",
+  "browser_qa_sha256": "7e28874cfaa06da342bb1106a4243728f5b7c1f397a47c437d4ec6a472c87021"
+}

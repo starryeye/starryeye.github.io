@@ -11,6 +11,13 @@
             📂 <span style="font-family:'Cafe24Oneprettynight';">전체 글 수</style> <span style="font-family:'Coming Soon';">{{sum}}</style> <span style="font-family:'Cafe24Oneprettynight';">개</style> 
       </li>
       <li>
+        <span class="nav__sub-title">standards</span>
+        <ul>
+          <li><a href="/categories/Standards/">표준 문서 ({{ site.categories.Standards.size }})</a></li>
+        </ul>
+      </li>
+      {% if site.categories.CS %}
+      <li>
         <span class="nav__sub-title">cs</span>
             <ul>
                 {% for category in site.categories %}
@@ -20,6 +27,8 @@
                 {% endfor %}
             </ul>
       </li>
+      {% endif %}
+      {% if site.categories.Blog %}
       <li>
         <span class="nav__sub-title">etc</span>
             <ul>
@@ -30,5 +39,6 @@
                 {% endfor %}
             </ul>
       </li>
+      {% endif %}
   </ul>
 </nav>
