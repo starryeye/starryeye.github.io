@@ -6,4 +6,8 @@
 <link rel="stylesheet" href="{{ '/assets/css/standard-reader.css' | relative_url }}?v={{ page.reader_version | default: 'legacy' }}">
 {% endif %}
 
+{% if page.noindex %}
+<meta name="robots" content="noindex, nofollow, noarchive">
+{% endif %}
+
 <!-- end custom head snippets -->

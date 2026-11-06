@@ -16,6 +16,14 @@
           <li><a href="/categories/Standards/">표준 문서 ({{ site.categories.Standards.size }})</a></li>
         </ul>
       </li>
+      {% if site.categories.Health %}
+      <li>
+        <span class="nav__sub-title">study</span>
+        <ul>
+          <li><a href="/categories/Health/">보건 임용 🔒 ({{ site.categories.Health.size }})</a></li>
+        </ul>
+      </li>
+      {% endif %}
       {% if site.categories.CS %}
       <li>
         <span class="nav__sub-title">cs</span>
