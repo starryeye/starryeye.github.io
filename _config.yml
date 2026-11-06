@@ -277,6 +277,11 @@ compress_html:
 
 # Defaults
 defaults:
+  # standalone study app: keep out of sitemap
+  - scope:
+      path: "study"
+    values:
+      sitemap: false
   # _posts
   - scope:
       path: ""
