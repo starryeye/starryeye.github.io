@@ -1,6 +1,6 @@
 # 기술 표준 번역 고지
 
-RFC 6749, RFC 6750, RFC 7636, RFC 8414, RFC 9700의 비공식 AI 한국어 번역본입니다.
+RFC 6749, RFC 6750, RFC 7519, RFC 7636, RFC 8414, RFC 9700의 비공식 AI 한국어 번역본입니다.
 공식 원문과 발행본의 저작권·이용 조건이 우선하며, 이 저장소 테마의 LICENSE를
 RFC 본문이나 포함 자산 전체에 일괄 적용하지 않습니다. 각 글의 원문 링크와
 원래 저작권 고지를 확인해 주세요. 번역에는 오류가 있을 수 있으며 공식 표준을 대체하지 않습니다.
@@ -11,3 +11,11 @@ RFC 본문이나 포함 자산 전체에 일괄 적용하지 않습니다. 각 �
 
 기존 블로그 글 2개는 요청에 따라 공개 글에서 제거했습니다. 저장소의 Git 이력은
 그대로 보존했으며 강제 푸시나 이력 삭제는 하지 않았습니다.
+
+## RFC 7519의 영문 저작권 고지
+
+[RFC 7519 — JSON Web Token (JWT)](https://datatracker.ietf.org/doc/rfc7519/), M. Jones, J. Bradley, N. Sakimura, May 2015.
+
+> Copyright (c) 2015 IETF Trust and the persons identified as the document authors. All rights reserved.
+>
+> This document is subject to BCP 78 and the IETF Trust's Legal Provisions Relating to IETF Documents (http://trustee.ietf.org/license-info) in effect on the date of publication of this document. Please review these documents carefully, as they describe your rights and restrictions with respect to this document. Code Components extracted from this document must include Simplified BSD License text as described in Section 4.e of the Trust Legal Provisions and are provided without warranty as described in the Simplified BSD License.
