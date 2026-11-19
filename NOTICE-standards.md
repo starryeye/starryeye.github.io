@@ -1,6 +1,6 @@
 # 기술 표준 번역 고지
 
-RFC 6749, RFC 6750, RFC 7519, RFC 7636, RFC 7662, RFC 8414, RFC 9068, RFC 9700의 비공식 AI 한국어 번역본입니다.
+RFC 6749, RFC 6750, RFC 7009, RFC 7519, RFC 7636, RFC 7662, RFC 8414, RFC 9068, RFC 9700의 비공식 AI 한국어 번역본입니다.
 공식 원문과 발행본의 저작권·이용 조건이 우선하며, 이 저장소 테마의 LICENSE를
 RFC 본문이나 포함 자산 전체에 일괄 적용하지 않습니다. 각 글의 원문 링크와
 원래 저작권 고지를 확인해 주세요. 번역에는 오류가 있을 수 있으며 공식 표준을 대체하지 않습니다.
@@ -27,3 +27,7 @@ RFC 본문이나 포함 자산 전체에 일괄 적용하지 않습니다. 각 �
 ## RFC 7662의 영문 저작권 고지
 
 [RFC 7662 — OAuth 2.0 Token Introspection](https://datatracker.ietf.org/doc/html/rfc7662), J. Richer, Ed., October 2015. [발행본 영문 저작권 고지](https://github.com/starryeye/standard-document/blob/main/NOTICE.md#rfc-7662)를 함께 보존합니다.
+
+## RFC 7009의 영문 저작권 고지
+
+[RFC 7009 — OAuth 2.0 Token Revocation](https://www.rfc-editor.org/rfc/rfc7009.html), T. Lodderstedt, Ed., S. Dronia, and M. Scurtescu, August 2013. [발행본 영문 저작권 고지](https://github.com/starryeye/standard-document/blob/main/NOTICE.md#rfc-7009)를 함께 보존합니다.
