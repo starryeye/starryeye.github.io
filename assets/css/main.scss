@@ -42,3 +42,8 @@
 
 // "Coming Soon"
 @import url('https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap');
+
+// Keep the RFC code example and its caption stacked in the blog theme.
+.rfc8693-reader .st-reader-embed figure {
+    display: block;
+}
