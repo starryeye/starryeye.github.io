@@ -35,3 +35,7 @@ RFC 본문이나 포함 자산 전체에 일괄 적용하지 않습니다. 각 �
 ## RFC 8693의 영문 저작권 고지
 
 [RFC 8693 — OAuth 2.0 Token Exchange](https://www.rfc-editor.org/rfc/rfc8693.html), January 2020. [발행본 영문 저작권 고지](https://github.com/starryeye/standard-document/blob/main/NOTICE.md#rfc-8693)를 함께 보존합니다.
+
+## RFC 9449의 영문 저작권 고지
+
+[RFC 9449 — OAuth 2.0 Demonstrating Proof of Possession (DPoP)](https://www.rfc-editor.org/rfc/rfc9449.html), September 2023. [발행본 영문 저작권 고지](https://github.com/starryeye/standard-document/blob/main/NOTICE.md#rfc-9449)를 함께 보존합니다.
