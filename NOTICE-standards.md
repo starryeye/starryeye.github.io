@@ -43,3 +43,7 @@ RFC 본문이나 포함 자산 전체에 일괄 적용하지 않습니다. 각 �
 ## RFC 8705의 영문 저작권 고지
 
 [RFC 8705 — OAuth 2.0 Mutual-TLS Client Authentication and Certificate-Bound Access Tokens](https://datatracker.ietf.org/doc/html/rfc8705), February 2020. [발행본 영문 저작권 고지](https://github.com/starryeye/standard-document/blob/main/NOTICE.md#rfc-8705)를 함께 보존합니다.
+
+## RFC 7523
+
+[RFC 7523 — JSON Web Token (JWT) Profile for OAuth 2.0 Client Authentication and Authorization Grants](https://datatracker.ietf.org/doc/rfc7523/), May 2015. 발행본의 저작권 및 이용 조건은 [공식 Copyright Notice](https://www.rfc-editor.org/rfc/rfc7523.html)와 번역판의 저작권 고지에 있습니다.
