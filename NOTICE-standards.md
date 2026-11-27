@@ -56,6 +56,10 @@ RFC 본문이나 포함 자산 전체에 일괄 적용하지 않습니다. 각 �
 >
 > This document is subject to BCP 78 and the IETF Trust's Legal Provisions Relating to IETF Documents (https://trustee.ietf.org/license-info) in effect on the date of publication of this document. Please review these documents carefully, as they describe your rights and restrictions with respect to this document. Code Components extracted from this document must include Revised BSD License text as described in Section 4.e of the Trust Legal Provisions and are provided without warranty as described in the Revised BSD License.
 
+## RFC 9101
+
+[RFC 9101 — The OAuth 2.0 Authorization Framework: JWT-Secured Authorization Request (JAR)](https://datatracker.ietf.org/doc/html/rfc9101), N. Sakimura, J. Bradley, and M. Jones, August 2021. [발행본 영문 저작권 고지](https://datatracker.ietf.org/doc/html/rfc9101#name-copyright-notice)를 번역판에 함께 보존합니다.
+
 ## RFC 9126
 
 [RFC 9126 — OAuth 2.0 Pushed Authorization Requests (PAR)](https://datatracker.ietf.org/doc/html/rfc9126), T. Lodderstedt, B. Campbell, N. Sakimura, D. Tonge, and F. Skokan, September 2021.
