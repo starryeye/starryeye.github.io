@@ -64,6 +64,10 @@ RFC 본문이나 포함 자산 전체에 일괄 적용하지 않습니다. 각 �
 
 [RFC 9207 — OAuth 2.0 Authorization Server Issuer Identification](https://datatracker.ietf.org/doc/html/rfc9207), K. Meyer zu Selhausen and D. Fett, March 2022. [발행본 영문 저작권 고지](https://datatracker.ietf.org/doc/html/rfc9207#name-copyright-notice)를 번역판에 함께 보존합니다.
 
+## RFC 9396
+
+[RFC 9396 — OAuth 2.0 Rich Authorization Requests](https://datatracker.ietf.org/doc/html/rfc9396), T. Lodderstedt, J. Richer, and B. Campbell, May 2023. 발행본의 [영문 저작권 및 Revised BSD License 고지](https://datatracker.ietf.org/doc/html/rfc9396#name-copyright-notice)를 번역판에 함께 보존합니다.
+
 ## RFC 9126
 
 [RFC 9126 — OAuth 2.0 Pushed Authorization Requests (PAR)](https://datatracker.ietf.org/doc/html/rfc9126), T. Lodderstedt, B. Campbell, N. Sakimura, D. Tonge, and F. Skokan, September 2021.
